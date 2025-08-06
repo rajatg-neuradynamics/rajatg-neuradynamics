@@ -80,7 +80,7 @@ Here are the primary technologies I work with.
 
 -   **SDE-1** `(June 2024 - Present)`
     -   *Currently contributing to backend services and managing cloud infrastructure.*
-    -   *[Add a key achievement or responsibility here]*
+      
 -   **SDE Intern** `(March 2024 - May 2024)`
     -   *Developed and maintained backend APIs using FastAPI.*
     -   *Gained hands-on experience with Docker and Azure for deployments.*
